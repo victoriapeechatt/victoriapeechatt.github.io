@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Victoria Peechatt"
-  image: images/buckeyelong.png
+  favicon: images/buckeyelong.png
   bread-crumbs: true
   navbar:
     left:
