@@ -1,4 +1,12 @@
 ---
 title: "Outreach"
+listing: 
+  contents: 
+    - "outreach/*.qmd"
+  type: grid
+  categories: true
+  sort: "date"
+  date-format: iso
+  
 ---
 

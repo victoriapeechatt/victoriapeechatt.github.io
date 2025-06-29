@@ -1,0 +1,9 @@
+---
+title: "American Beekeeping Federation Conference"
+date: 2025/1/20
+categories: outreach
+
+---
+<img src="../images/beeexpo.jpeg" alt="VP showing native pollinators" width="500" height="600">
+<a href = "https://www.unr.edu/nevada-today/news/2025/beekeeping-conference-outreach">News article</a> 
+

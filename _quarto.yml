@@ -3,6 +3,8 @@ project:
 
 website:
   title: "Victoria Peechatt"
+  image: images/buckeyelong.png
+  bread-crumbs: true
   navbar:
     left:
       - href: index.qmd
@@ -11,7 +13,8 @@ website:
         text: Research
       - href: outreach.qmd
         text: Outreach
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
