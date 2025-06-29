@@ -1,0 +1,106 @@
+/* ----------- INDEX PAGE -----------*/
+
+/* HERO IMAGE AT TOP OF PAGE*/
+
+.hero-container {
+  overflow: hidden;
+  position: relative;
+  max-height: 80vh;
+  height: 80vh;
+}
+
+.hero-image {
+  position: absolute;
+  bottom: 0;
+  /* liner gradient tints the image darker for readability*/
+  background-image: linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), url(images/chalcedona-landscape.jpg);
+  background-size: cover;
+  height: auto;
+  width: 100vw;
+  background-color: #141c25;
+  display: flex; /* Change to `display: none` for no hero image */
+  justify-content: center;
+  align-items: center;
+  background-repeat: no-repeat;
+  padding: 21vh 0;
+}
+
+.VP-top {
+  position: relative;
+  text-align: center;
+  font-size: 100px;
+  color: #ffffff;
+  padding-right: 133px;
+  margin-bottom: -4.7rem;
+  font-weight: bold;
+}
+
+.VP-bottom {
+  position: relative;
+  text-align: center;
+  font-size: 100px;
+  color: #EEECEA;
+  padding-left: 105px;
+  font-weight: bold;
+}
+
+.VP-byline {
+  font-size: 20px;
+  text-align: center;
+  color: #ffffff;
+  padding-top: 0px;
+}
+
+.credit-text {
+  position: absolute;
+  text-align: left;
+  left: 2%;
+  bottom: 5%;
+}
+
+.VP-species-credit {
+  font-size: 11px;
+  color: white;
+}
+
+.VP-image-credit {
+  text-align: left;
+  font-size: 14px;
+  color: white;
+}
+
+@media (min-width: 992px){
+  .credit-text {
+    position: absolute;
+    bottom: 3%;
+  }
+}
+
+@media (max-height: 876px) {
+  .hero-container {
+    max-height: 75vh;
+    height: 100vh;
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 952px){
+  /*--    --*/
+  .hero-container {
+    max-height: 75vh;
+    /*height: 66vh;*/
+    display: flex;
+  }
+  .hero-image {
+    position: relative;
+    background-attachment: scroll;
+    background-position: 84% center;
+    display: block;
+    padding: none;
+    align-content: center;
+    object-fit: cover;
+    padding: 6vh 0;
+  }
+
+}
+
