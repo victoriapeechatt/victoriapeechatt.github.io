@@ -3,19 +3,22 @@ project:
 
 website:
   title: "Victoria Peechatt"
-  favicon: images/buckeyelong.png
+  favicon: images/parasitoid.png
   bread-crumbs: true
+  back-to-top-navigation: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: research.qmd
         text: Research
       - href: outreach.qmd
-        text: Outreach
+        text: Outreach & Activism
+      - href: teaching.qmd
+        text: Teaching & Mentorship
       - href: about.qmd
-        text: About
-
+        text: About me & CV
+      - href: acknowledgements.qmd
+        text: Acknowledgements
+  
 format:
   html:
     theme:

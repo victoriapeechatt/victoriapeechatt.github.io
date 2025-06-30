@@ -2,30 +2,19 @@
 
 /* HERO IMAGE AT TOP OF PAGE*/
 
-.hero-container {
-  overflow: visible;
-  position: relative;
-  max-height: 80vh;
-  height: 80vh;
+body {
+    font-family: Arial, sans-serif;
+    background: url(images/chalcedona-landscape.jpg) no-repeat;
+    background-size: cover;
+    background-position: 50% 85%; /* 50% from left, 30% from top */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    color: white;
 }
-
-.hero-image {
-  position: absolute;
-  bottom: -10vw;
-  /* liner gradient tints the image darker for readability*/
-  /*  linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.3) ), */
-  background-image: url(images/chalcedona-landscape.jpg);
-  background-size: cover;
-  height: auto;
-  width: 100vw;
-  background-color: #141c25;
-  display: flex; /* Change to `display: none` for no hero image */
-  justify-content: center;
-  align-items: center;
-  background-repeat: no-repeat;
-  padding: 79vh 0;
-}
-
 .VP-top {
   position: relative;
   text-align: center;
@@ -56,7 +45,8 @@
   position: absolute;
   text-align: left;
   left: 2%;
-  bottom: 5%;
+  bottom: 10px;
+  font-family: Arial;
 }
 
 .VP-species-credit {

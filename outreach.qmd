@@ -1,12 +1,18 @@
 ---
-title: "Outreach"
+title: "Outreach & Activism"
 listing: 
   contents: 
     - "outreach/*.qmd"
+    - "activism/*.qmd"
   type: grid
   categories: true
   sort: "date"
   date-format: iso
+page-footer: 
+    left: "Copyright 2025, Victoria Peechatt" 
+    right: "Made with Quarto"
+    border: false
+    background: light
   
 ---
 
