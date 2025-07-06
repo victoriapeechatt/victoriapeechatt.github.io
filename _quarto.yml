@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Victoria Peechatt"
-  favicon: images/parasitoid.png
+  favicon: images/parasitoid_square.png
   bread-crumbs: true
   back-to-top-navigation: true
   navbar:
