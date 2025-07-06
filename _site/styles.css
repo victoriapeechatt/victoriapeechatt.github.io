@@ -1,1 +1,29 @@
 /* css styles */
+
+@media (max-height: 876px) {
+  .textdiv {
+    max-height: 75vh;
+    height: 100vh;
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 952px){
+  /*--    --*/
+  .textdiv  {
+    max-height: 75vh;
+    /*height: 66vh;*/
+    display: flex;
+  }
+  .textdiv  {
+    position: relative;
+    background-attachment: scroll;
+    background-position: 0% 0% center;
+    display: block;
+    padding: none;
+    align-content: center;
+    object-fit: contain;
+    padding: 1em;
+  }
+
+}

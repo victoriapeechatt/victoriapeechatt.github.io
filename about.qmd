@@ -4,6 +4,7 @@ about:
   template: jolla
   image: images/profile.jpg
 
+
 ---
 
 Hi, hello! I'm a third year doctoral student at the University of Nevada, Reno in <a href="http://www.angelasmilanich.com/" target="_blank" rel="noopener">Angela Smilanich's lab</a> studying plant-insect-natural enemy interactions. Below is an immersive version of my CV with some bonus content. If you're looking for the minimalist pdf, here it is: [CV]  
@@ -11,6 +12,7 @@ Hi, hello! I'm a third year doctoral student at the University of Nevada, Reno i
 <span style="white-space: nowrap"><a href="https://bsky.app/profile/vpeechatt.bsky.social" target="_blank" rel="noopener">{{< iconify simple-icons:bluesky width=20px height=20px style="color: #128ddd;" >}}</a>  <a href="https://www.inaturalist.org/people/vpeechatt" target="_blank" rel="noopener">{{< iconify academicons:inaturalist width=25px height=25px style="color: #4c8e36;" >}}</a>  </span>
 
 ### Education 
+
 <p style="text-align:left;"><b>University of Nevada, Reno</b></br>
 Doctoral student in Ecology, Evolution, and Conservation Biology </br>2023 - present</br></br>
 Coursework: Entomology, Causality, Bayesian Hierarchical Modeling, Computational Biological Genomics, Science Communication & Writing, Chemistry of Biological Interactions
@@ -45,14 +47,89 @@ City of Asylum, Pittsburgh is the largest sanctuary for exiled writers and artis
 ### Awards 
 <table style="width:100%">
   <tr>
-    <td style="width:20%">Column 1</td>
-    <td style="width:20%">Column 2</td>
-    <td style="width:60%">Column 3</td>
+    <td style="width:15%">2025</td>
+    <td style="width:60%; text-align:left;">Scientist Exchange Fellowship, Earthwatch Institute</td>
+    <td style="width:25%; text-align:left;">$6,250</td>
   </tr>
   <tr>
-    <td style="width:20%">content</td>
-    <td style="width:20%">content</td>
-    <td style="width:60%">content</td>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Nevada Women’s Fund Scholarship</td>
+    <td style="width:25%; text-align:left;">$4,500</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Outstanding Graduate Student Service Award, GSA, UNR</td>
+    <td style="width:25%; text-align:left;">$1,000</td>
+  </tr>
+  <tr>
+    <td style="width:15%">2024</td>
+    <td style="width:60%; text-align:left;">Chemistry of Biological Interactions Fellowship, NSF - NRT</td>
+    <td style="width:25%; text-align:left;">$75,000 + tuition waiver</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Diana Hadley-Lynch Scholarship, University of Nevada, Reno</td>
+    <td style="width:25%; text-align:left;">$1,150</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Travel Award, GSA, University of Nevada, Reno</td>
+    <td style="width:25%; text-align:left;">$750</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Program Enhancement Fund, EntSoc.</td>
+    <td style="width:25%; text-align:left;">$500</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Trad Rock Climbing Festival Scholarship, Flash Foxy</td>
+    <td style="width:25%; text-align:left;">$500</td>
+  </tr>
+    <tr>
+    <td style="width:15%">2023</td>
+    <td style="width:60%; text-align:left;">Graduate Research Assistantship, University of Nevada, Reno</td>
+    <td style="width:25%; text-align:left;">$22,500 + tuition waiver</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Nevada Women’s Fund Scholarship </td>
+    <td style="width:25%; text-align:left;">$4,000</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Research & Materials Scholarship, University of Nevada, Reno</td>
+    <td style="width:25%; text-align:left;">$2,500</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Diana Hadley-Lynch Scholarship, University of Nevada, Reno</td>
+    <td style="width:25%; text-align:left;">$1,500</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Outstanding Creative Writer, GSA, University of Nevada, Reno </td>
+    <td style="width:25%; text-align:left;">$500</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Travel Award, GSA, University of Nevada, Reno</td>
+    <td style="width:25%; text-align:left;">$500</td>
+  </tr>
+  <tr>
+    <td style="width:15%">2019</td>
+    <td style="width:60%; text-align:left;">Interdisciplinary Humanities Grant, University of Pittsburgh</td>
+    <td style="width:25%; text-align:left;">$5,000</td>
+  </tr>
+  <tr>
+    <td style="width:15%">2017</td>
+    <td style="width:60%; text-align:left;">Summer Undergraduate Research, University of Pittsburgh</td>
+    <td style="width:25%; text-align:left;">$12,000</td>
+  </tr>
+  <tr>
+    <td style="width:15%">2015</td>
+    <td style="width:60%; text-align:left;">Full tuition scholarship, University of Pittsburgh</td>
+    <td style="width:25%; text-align:left;">$174,000</td>
   </tr>
 </table>
 </br>
@@ -78,9 +155,26 @@ Arts + Hobbies: Bharatanatyam (since 2000), volleyball (since 2009), poetry (sin
 <hr>
 
 ### Side Quests 
-#### Trad Climbing Festival 
+#### Climbing 
 <p style="text-align:left;">
-I joined Ripieno Studios at the Carnegie Mellon Entertainment Technology Center to make this short film. I represented Bharatanatyam, an Indian Classical Dance form that originated 2000 years ago by choreographing a segment and getting motion captured. </p></br> 
+In September 2024, I won a scholarship to attend a trad climbing festival hosted by Flash Foxy in North Conway, New Hampshire. It was an incredible experience - I learned trad climbing and did my first multipitch with the veterans. I wrote about my experience <a href = "https://www.flashfoxy.com/scholarship-blog/victoria-peechatt-sheher" target="_blank" rel="noopener">here</a>.</p>
+
+<img src="images/tradfest.jpg" width=400px>
+</br>
+
+#### Volleyball 
+<p style="text-align:left;">
+Growing up, volleyball was my favorite sport to play. All through middle school, high school, and college, and in all spaces - beach, grass, court, I kept playing. Recently, my team became champions of the Reno City League A League in Spring 2023.</p>
+
+<img src="images/volleyball1.jpg" width=400px>
+</br>
+
+#### Roadtrip across the continental USA 
+
+<p style="text-align:left;">
+My sister and I roadtripped across the United States in 2021 while I was moving to Reno. It was an awesome drive and we took the opportunities to see as much as we could along the way. I wrote about our trip which you can access below through PolarSteps. </p>
+
+<iframe width="640" height="480" src="https://www.polarsteps.com/VictoriaPeechatt/4189822-the-adventures-of-victoria-annie-and-shadowfax/embed"></iframe>
 
 #### Motion Capture for a Short Film
 <p style="text-align:left;">
@@ -88,6 +182,10 @@ I joined Ripieno Studios at the Carnegie Mellon Entertainment Technology Center 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DOJ065rCiaU?si=2Ax779dSjs7py12d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Roadtrip across the continental USA 
+#### Dance 
+<p style="text-align:left;">
+I started learning to dance when I was four year old. Classically trained in bharatnatyam - a 2000+ year old Indian dance form, I performed on stages all over the country. In college, I was co-captain of Pitt's very own Indian Classical Dance team: Nrityamala. We won first place at a competition at George Mason University in 2017,  and audience's choice at Penn State.</p>
 
-<iframe width="640" height="480" src="https://www.polarsteps.com/VictoriaPeechatt/4189822-the-adventures-of-victoria-annie-and-shadowfax/embed"></iframe>
+<img src="images/dance1.jpg" width=400px> </br></br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9iTEoLo5QgU?si=2Y1-aY_HwHkyca2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</br>
