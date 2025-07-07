@@ -15,50 +15,6 @@ body {
     text-align: left;
     color: white;
 }
-.VP-top {
-  position: relative;
-  text-align: center;
-  font-size: 100px;
-  color: #ffffff;
-  padding-right: 133px;
-  margin-bottom: -4.7rem;
-  font-weight: bold;
-}
-
-.VP-bottom {
-  position: relative;
-  text-align: center;
-  font-size: 100px;
-  color: #EEECEA;
-  padding-left: 105px;
-  font-weight: bold;
-}
-
-.VP-byline {
-  font-size: 20px;
-  text-align: center;
-  color: #ffffff;
-  padding-top: 0px;
-}
-
-.credit-text {
-  position: absolute;
-  text-align: left;
-  left: 2%;
-  bottom: 10px;
-  font-family: Arial;
-}
-
-.VP-species-credit {
-  font-size: 14px;
-  color: black;
-}
-
-.VP-image-credit {
-  text-align: left;
-  font-size: 14px;
-  color: white;
-}
 
 @media (min-width: 992px){
   .credit-text {
@@ -68,8 +24,8 @@ body {
 }
 
 @media (max-height: 876px) {
-  .hero-container {
-    max-height: 75vh;
+  .body {
+    max-height: 100vh;
     height: 100vh;
     display: flex;
   }
@@ -77,12 +33,12 @@ body {
 
 @media screen and (max-width: 952px){
   /*--    --*/
-  .hero-container {
-    max-height: 75vh;
+  body {
+    max-height: 100vh;
     /*height: 66vh;*/
     display: flex;
   }
-  .hero-image {
+  body {
     position: relative;
     background-attachment: scroll;
     background-position: 0% 0% center;
@@ -91,6 +47,9 @@ body {
     align-content: center;
     object-fit: contain;
     padding: 1em;
+  }
+  footer{
+    max-height: 1vh;
   }
 
 }
