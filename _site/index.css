@@ -6,7 +6,7 @@ body {
     font-family: Arial, sans-serif;
     background: url(images/chalcedona-landscape.jpg) no-repeat;
     background-size: cover;
-    background-position: 50% 85%; /* 50% from left, 30% from top */
+    background-position: 50% 95%; /* 50% from left, 30% from top */
     height: 100vh;
     display: flex;
     flex-direction: column;
