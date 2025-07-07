@@ -1,4 +1,15 @@
 /* css styles */
+.quarto-title-banner{
+  background-position: center center;
+  height: 500px;
+}
+
+h1.title{
+  text-align: center;
+  padding-left: 159px;
+  padding-top: 150px;
+  
+}
 
 @media (max-height: 876px) {
   .textdiv {

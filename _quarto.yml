@@ -18,12 +18,15 @@ website:
         text: About me & CV
       - href: acknowledgements.qmd
         text: Acknowledgements
-  
+  page-footer: 
+    left: "Updated 2025-07-05, Victoria Peechatt" 
+    right: "Made with Quarto"
+    border: false
+
 format:
   html:
     theme:
       - cosmo
-      - brand
     css: styles.css
     toc: true
 

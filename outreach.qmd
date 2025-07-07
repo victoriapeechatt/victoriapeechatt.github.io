@@ -1,5 +1,7 @@
 ---
 title: "Outreach & Activism"
+title-block-banner: images/toiyabes1.jpg
+title-block-banner-color: white
 listing: 
   contents: 
     - "outreach/*.qmd"
@@ -8,11 +10,7 @@ listing:
   categories: true
   sort: "date"
   date-format: iso
-page-footer: 
-    left: "Copyright 2025, Victoria Peechatt" 
-    right: "Made with Quarto"
-    border: false
-    background: light
+css: styles.css
   
 ---
 

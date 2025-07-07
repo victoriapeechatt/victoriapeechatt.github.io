@@ -1,6 +1,7 @@
 ---
 title: "Acknowledgements"
+title-block-banner: images/fall-ma.jpg
+title-block-banner-color: white
+css: styles.css
 format: html
 ---
-
-How did I get here? 
