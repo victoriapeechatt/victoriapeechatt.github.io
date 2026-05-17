@@ -8,17 +8,19 @@ editor:
     wrap: 72
 ---
 <body>
-<img src = "images/profile.jpg"width=300px  style="float: left; 
-  margin: 5px; padding-right: 20px; border-radius: 50%;" >
+<img src="images/profile.jpg" width="300px" style="display: block; margin: 0 auto; border-radius: 50%;">
+
+<p style="clear:left">
 Hi, hello! I'm a third year doctoral student at the University of
 Nevada, Reno in
 <a href="http://www.angelasmilanich.com/" target="_blank" rel="noopener">Angela
-Smilanich's lab</a> studying plant-insect-natural enemy interactions. As an ecoimmunologist, chemical ecologist, and evolutionary biologist, I am interested in the role chemicals play in caterpillar immunity as they defend themselves from predators, parasitoids, and viruses. Using this multitrophic perspective, I'm hoping to gain insight into the evolution of virulence and the evolution of specialization. Below is an immersive version of my CV with some bonus content. If
+Smilanich's lab</a> studying plant-insect-natural enemy interactions. As an ecoimmunologist, chemical ecologist, and evolutionary biologist, I am interested in the role chemistry plays in caterpillar immunity as they defend themselves from predators, parasitoids, and viruses. Using this multitrophic perspective, I'm hoping to gain insight into the evolution of virulence and the evolution of specialization. Below is an immersive version of my CV with some bonus content. If
 you're looking for the minimalist pdf, here it is: \[CV\]
 [<a href="https://bsky.app/profile/vpeechatt.bsky.social" target="_blank" rel="noopener">{{< iconify simple-icons:bluesky width=20px height=20px style="color: #128ddd;" >}}</a>
 <a href="https://www.inaturalist.org/people/vpeechatt" target="_blank" rel="noopener">{{< iconify academicons:inaturalist width=25px height=25px style="color: #4c8e36;" >}}</a>
 ]{style="white-space: nowrap"}
 </br>
+</p>
 <p style="clear:left"></p>
 
 ### Education
@@ -40,7 +42,7 @@ Computer Science, Physics, Chemistry </br>2015 - 2019</br></br>
 Coursework: Organic Chemistry, Thermal and Modern Physics, Biochemistry,
 Intermediate Programming with Java, Discrete Structures, Algorithm and
 Data Structures, Ecuador Forest Ecology, Ecological Field Studies,
-Undergraduate Research
+Undergraduate Research, Social Justice Literature Seminar, African American Poetry and Poetics, World Literature
 
 </p>
 
