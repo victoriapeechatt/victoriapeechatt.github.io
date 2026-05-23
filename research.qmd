@@ -14,8 +14,9 @@ css: styles.css
 <body>
 <p style="clear:left">
 
-My research: 
-</br>
-Species face selective pressures that change over space and time. Lepidopteran herbivores in the middle of multitrophic interactions are defending themselves from an array of natural enemies: predators, parasitoids, and pathogens while consuming unpalatable, toxic plants. As potential hosts for symbiotic natural enemies, caterpillar immune systems are exposed to a wide variety of threats and my research attempts to understand the multitrophic influences and consequences of immune system function. Understanding insect immune responses and how they are influenced by plant defense chemistry, pathogen prevalence and virulence, pressures from natural enemies, and abiotic factors like temperature will provide insight into the selection pressures and evolutionary constraints that led to the biodiversity of plants and insects we see today. On this website, I outline the three projects in which I investigate many factors that influence the herbivore immune response and the potential impact for community level interactions.
+<h1> My research: </h>
+</p>
+<p style="clear:left">
+Species face selective pressures that change over space and time. Lepidopteran herbivores in the middle of multitrophic interactions are defending themselves from an array of natural enemies: predators, parasitoids, and pathogens while consuming unpalatable, toxic plants. As potential hosts for symbiotic natural enemies, caterpillar immune systems are exposed to a wide variety of threats and my research attempts to understand the multitrophic influences and consequences of immune system function. Understanding insect immune responses and how they are influenced by plant defense chemistry, pathogen prevalence and virulence, pressures from natural enemies, and abiotic factors like temperature will provide insight into the selection pressures and evolutionary constraints that led to the biodiversity of plants and insects we see today. In my dissertation research, I investigate many factors that influence the herbivore immune response and the potential impact for community level interactions.
 
 </p>

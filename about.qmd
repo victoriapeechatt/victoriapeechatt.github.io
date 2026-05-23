@@ -257,7 +257,7 @@ multipitch with the TradDads. I wrote about my experience
 
 </p>
 
-<img src="images/tradfest.jpg" class="responsive-fullscreen-img"/> </br>
+<img src="images/tradfest.jpg" class="responsive-contain-img"/> </br>
 
 #### Volleyball
 
@@ -270,7 +270,7 @@ became champions of the Reno City A League (Spring 2023).
 
 </p>
 
-<img src="images/volleyball1.jpg" class="responsive-fullscreen-img"/> </br>
+<img src="images/volleyball1.jpg" width="400px"/> </br>
 
 #### Roadtrip across the continental USA
 
@@ -283,7 +283,7 @@ you can access below through PolarSteps.
 
 </p>
 
-<iframe class="responsive-fullscreen-img" src="https://www.polarsteps.com/VictoriaPeechatt/4189822-the-adventures-of-victoria-annie-and-shadowfax/embed">
+<iframe width="640" height="480" src="https://www.polarsteps.com/VictoriaPeechatt/4189822-the-adventures-of-victoria-annie-and-shadowfax/embed">
 
 </iframe>
 
@@ -317,7 +317,7 @@ and audience's choice at Penn State.
 
 </p>
 
-<img src="images/dance1.jpg" class="responsive-fullscreen-img"/> </br></br>
+<img src="images/dance1.jpg" width="400px"/> </br></br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9iTEoLo5QgU?si=2Y1-aY_HwHkyca2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </br>
 </body>
