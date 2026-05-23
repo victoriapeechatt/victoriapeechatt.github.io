@@ -223,8 +223,8 @@ poetry (since 2011)
 <hr>
 
 ### Uses
+<p style="text-align:left;">
 
-</br>
 <span style="white-space: nowrap">{{< iconify logos:slack-icon width=50px height=50px title="Slack for communication" >}}
 {{< iconify logos:ubuntu width=50px height=50px title="Ubuntu based software on my laptop" >}}
 {{< iconify simple-icons:popos width=50px height=50px title="Pop_OS! operating system" >}}
@@ -240,7 +240,7 @@ poetry (since 2011)
 {{< iconify simple-icons:revealdotjs width=50px height=50px title="Reveal.js for presentations" >}}
 {{< iconify simple-icons:quarto width=50px height=50px style="color:#5ab0d5" title="Quarto for publishing this site" >}}
 </br>
-
+</p>
 <hr>
 
 ### Side Quests

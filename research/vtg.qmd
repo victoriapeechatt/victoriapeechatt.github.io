@@ -1,8 +1,20 @@
 ---
-title: "Elevated temperatures increase the severity of a viral pathogen and variability of immune response in an insect herbivore"
+title: "Virus-Temperature Gradient Experiment: The effect of elevated temperature on development, survival, immune responses, viral loads, and chemical sequestration in a specialist herbivore"
 author: Victoria Peechatt, Katherine Chacon Godoy, Jennifer McCracken, Jeremy Flatt, Mike Teglas, Angela Smilanich
 date: 2025/5/28
 format: html
+css: styles.css
 ---
+<img src="../images/buckeyecat.jpg" alt="VP showing native pollinators" width="300" height="500">
 
-<embed src="vtg.pdf" type="application/pdf" width="100%" height="500px">
+<p style="text-align:center;">
+
+The goal of this project was to answer the following questions: (1) How does a temperature gradient and infection of a pathogen affect the development, survival, and immune response of a lepidopteran herbivore, and (2) How does chemistry mediate these effects? 
+
+</p>
+
+<p style="text-align:left;">
+
+In this project, I investigated the effect of a temperature gradient and infection of a pathogen on the development, survival, and immune response of a lepidopteran herbivore. I conducted a full-factorial experiment with Junonia grisea caterpillars exposed to four different temperature treatments and infected half with a non-lethal dose of the virus, Junonia coenia densovirus. For a subset of caterpillars at sixth instar, I measured viral loads and three different immune parameters: hemocyte counts, phenoloxidase activity, and encapsulation of a filament. In collaboration with Kat Chacon-Godoy, we extracted, isolated, and quantified the iridoid glycosides sequestered by the same subset of caterpillars above. Using Cox proportional hazard curves and Bayesian regressions, I quantified the interactions between temperature, viral infection, development and survival. I used path analyses to understand the interactions between temperature and viral load, immune function, and chemistry.
+
+</p>
