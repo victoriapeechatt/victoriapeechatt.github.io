@@ -1,0 +1,9 @@
+---
+title: "Biology Laboratory 192 - Section 10"
+date: 2026/1/15
+format: html
+css: styles.css
+categories: teaching
+
+---
+<img src="../images/2026spring2.jpg" width="400" height="300">

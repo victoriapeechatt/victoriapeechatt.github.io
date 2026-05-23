@@ -2,6 +2,15 @@
 title: "Teaching & Mentorship"
 title-block-banner: images/laselva-kids.jpg
 title-block-banner-color: white
+listing: 
+  contents: 
+    - "teaching/*.qmd"
+    - "mentorship/*.qmd"
+  type: grid
+  categories: true
+  sort: "date"
+  date-format: iso
+css: styles.css
 format: html
 ---
 

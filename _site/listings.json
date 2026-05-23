@@ -12,5 +12,14 @@
       "/research/vtg.html",
       "/research/ECgradient.html"
     ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/2024spring1.html",
+      "/teaching/2024spring2.html",
+      "/teaching/2026spring1.html",
+      "/teaching/2026spring2.html"
+    ]
   }
 ]

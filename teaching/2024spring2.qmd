@@ -1,0 +1,9 @@
+---
+title: "Biology Laboratory 192 - Section 8"
+date: 2024/1/15
+format: html
+css: styles.css
+categories: teaching
+
+---
+<img src="../images/2024spring2.jpg" width="400" height="300">

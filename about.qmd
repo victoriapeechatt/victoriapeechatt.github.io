@@ -27,7 +27,7 @@ you're looking for the minimalist pdf, here it is: \[CV\]
 
 <p style="text-align:left;">
 
-<b>University of Nevada, Reno</b></br> Doctoral student in Ecology,
+<b>University of Nevada, Reno</b></br> Doctoral candidate in Ecology,
 Evolution, and Conservation Biology </br>2023 - present</br></br>
 Coursework: Entomology, Causality, Bayesian Hierarchical Modeling,
 Computational Biological Genomics, Science Communication & Writing,
