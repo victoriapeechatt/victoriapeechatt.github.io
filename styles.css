@@ -1,40 +1,65 @@
-/* css styles */
-.quarto-title-banner{
-  background-position: center center;
+/* ==========================================================================
+   1. UNIVERSAL STYLES & UTILITIES
+   ========================================================================== */
+
+/* The Magic Utility: Apply this class to ANY <img> tag to make it fill the screen */
+.responsive-fullscreen-img {
+  width: 100vw;               /* 100% of viewport width */
+  height: 100vh;              /* 100% of viewport height */
+  object-fit: cover;          /* Fills the screen edge-to-edge without squishing */
+  object-position: center;    /* Keeps the center of the image focused */
+}
+
+/* Use this variation if you want to see the WHOLE image without any cropping */
+.responsive-contain-img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: contain;        /* Shows 100% of the image; adds bars if ratio doesn't match */
+  object-position: center;
+}
+
+
+/* ==========================================================================
+   2. QUARTO TITLE BANNER (DESKTOP DEFAULT)
+   ========================================================================== */
+
+.quarto-title-banner {
   height: 500px;
-}
-
-h1.title{
-  text-align: center;
-  padding-left: 159px;
-  padding-top: 150px;
+  background-position: center center;
+  background-size: cover;     /* If the banner uses a background-image, it won't distort */
   
+  /* Flexbox automatically handles perfect vertical & horizontal centering */
+  display: flex;
+  align-items: center;        
+  justify-content: center;   
+  box-sizing: border-box;
 }
 
-@media (max-height: 876px) {
-  .quarto-title-banner{
-    max-height: 30vh;
-    height: 30vh;
-    display: flex;
-  }
+h1.title {
+  text-align: center;
+  margin: 0;
+  padding: 0 40px;            /* Even breathing room on the sides */
+  width: 100%;
 }
 
-@media screen and (max-width: 952px){
-  /*--    --*/
-  .quarto-title-banner{
-    max-height: 30vh;
-    /*height: 66vh;*/
-    display: flex;
-  }
-  h1.title  {
-    position: relative;
-    background-attachment: scroll;
-    background-position: center center;
-    display: block;
-    padding: none;
-    align-content: center;
-    object-fit: contain;
-    padding: 10vh;
+
+/* ==========================================================================
+   3. MOBILE RESPONSIVE BREAKPOINT (Screens 952px wide or smaller)
+   ========================================================================== */
+
+@media screen and (max-width: 952px) {
+  
+  .quarto-title-banner {
+    /* Takes up exactly 40% of the phone's screen height vertically */
+    height: 40vh;             
+    max-height: none;         
   }
 
+  h1.title {
+    /* Overrides desktop offsets to guarantee the text centers beautifully on phones */
+    padding: 0 20px;          
+    position: static;
+    font-size: 1.8rem;        /* Scales the text down slightly so it fits mobile screens */
+  }
+  
 }
