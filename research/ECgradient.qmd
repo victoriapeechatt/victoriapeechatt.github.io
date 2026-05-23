@@ -5,7 +5,7 @@ date: 2026/5/20
 format: html
 css: styles.css
 ---
-<img src="../images/glenalpine1.JPG" alt="field site of E. chalcedona" width="500" height="300">
+<img src="../images/chalcedonacat.jpg" alt="field site of E. chalcedona" width="400" height="500">
 
 <p style="text-align:left;">
 

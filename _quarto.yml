@@ -9,7 +9,7 @@ website:
   navbar:
     left:
       - href: research.qmd
-        text: Research
+        text: Research & Questions
       - href: outreach.qmd
         text: Outreach & Activism
       - href: teaching.qmd
