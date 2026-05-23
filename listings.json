@@ -8,7 +8,9 @@
   {
     "listing": "/research.html",
     "items": [
-      "/research/vtg.html"
+      "/research/psitpref.html",
+      "/research/vtg.html",
+      "/research/ECgradient.html"
     ]
   }
 ]
