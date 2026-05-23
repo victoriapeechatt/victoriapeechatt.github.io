@@ -7,9 +7,13 @@ css: styles.css
 ---
 <img src="../images/glenalpine1.JPG" alt="field site of E. chalcedona" width="500" height="300">
 
-<p style="text-align:center;">
+<p style="text-align:left;">
 
-In this project I will investigate the following questions: (1) How do climatic variables affect viral infection rates and parasitism rates of one species of lepidoptera distributed across an elevational gradient and over time? (2) How do climatic variables affect the immune response and chemical sequestration of lepidoptera distributed across an elevational gradient and over time? 
+<h1>Questions: </h1> 
+</br>
+<h2>(1) How do climatic variables affect viral infection rates and parasitism rates of one species of lepidoptera distributed across an elevational gradient and over time? 
+
+(2) How do climatic variables affect the immune response and chemical sequestration of lepidoptera distributed across an elevational gradient and over time? </h2>
 
 </p>
 

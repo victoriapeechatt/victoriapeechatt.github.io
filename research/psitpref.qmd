@@ -7,9 +7,14 @@ css: styles.css
 ---
 <img src="../images/cotesia-larvae.jpg" alt="Cotesia parasitoid larvae emerging from caterpillar" width="500" height="300">
 
-<p style="text-align:center;">
+<p style="text-align:left;">
 
-In this project, I investigated the following questions: (1) How does viral infection of a lepidopteran host affect the choice and success of a parasitoid? (2) Are there different effects of viral infection of the host on specialist and generalist parasitoids?
+<h1>Questions: </h1> 
+</br> 
+<h2>
+(1) How does viral infection of a lepidopteran host affect the choice and success of a parasitoid? 
+(2) Are there different effects of viral infection of the host on specialist and generalist parasitoids?
+</h2>
 
 </p>
 

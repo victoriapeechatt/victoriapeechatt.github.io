@@ -11,10 +11,10 @@ editor:
 <img src="images/profile.jpg" width="300px" style="display: block; margin: 0 auto; border-radius: 50%;">
 
 <p style="clear:left">
-Hi, hello! I'm a third year doctoral student at the University of
-Nevada, Reno in
+Hi, hello! I'm a fourth year doctoral candidate in
 <a href="http://www.angelasmilanich.com/" target="_blank" rel="noopener">Angela
-Smilanich's lab</a> studying plant-insect-natural enemy interactions. As an ecoimmunologist, chemical ecologist, and evolutionary biologist, I am interested in the role chemistry plays in caterpillar immunity as they defend themselves from predators, parasitoids, and viruses. Using this multitrophic perspective, I'm hoping to gain insight into the evolution of virulence and the evolution of specialization. Below is an immersive version of my CV with some bonus content. If
+Smilanich's lab</a> at the University of
+Nevada, Reno studying plant-insect-natural enemy interactions. As an ecoimmunologist, chemical ecologist, and evolutionary biologist, I am interested in the role chemistry plays in caterpillar immunity as they defend themselves from predators, parasitoids, and viruses. Using this multitrophic perspective, I'm hoping to gain insight into the evolution of virulence and the evolution of specialization. Below is an immersive version of my CV with some bonus content. If
 you're looking for the minimalist pdf, here it is: \[CV\]
 [<a href="https://bsky.app/profile/vpeechatt.bsky.social" target="_blank" rel="noopener">{{< iconify simple-icons:bluesky width=20px height=20px style="color: #128ddd;" >}}</a>
 <a href="https://www.inaturalist.org/people/vpeechatt" target="_blank" rel="noopener">{{< iconify academicons:inaturalist width=25px height=25px style="color: #4c8e36;" >}}</a>
@@ -53,6 +53,22 @@ Undergraduate Research, Social Justice Literature Seminar, African American Poet
 ### Awards
 
 <table style="width:100%">
+<tr>
+    <td style="width:15%">2026</td>
+    <td style="width:60%; text-align:left;">Nevada Women’s Fund Scholarship</td>
+    <td style="width:25%; text-align:left;">$4,500</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Lepidopterists' Society Scholarship (with Clare Dittemore)</td>
+    <td style="width:25%; text-align:left;">$2,000</td>
+  </tr>
+  <tr>
+    <td style="width:15%"></td>
+    <td style="width:60%; text-align:left;">Travel Award, GSA, UNR</td>
+    <td style="width:25%; text-align:left;">$750</td>
+  </tr>
+  <tr>
   <tr>
     <td style="width:15%">2025</td>
     <td style="width:60%; text-align:left;">Scientist Exchange Fellowship, Earthwatch Institute</td>
@@ -70,7 +86,7 @@ Undergraduate Research, Social Justice Literature Seminar, African American Poet
   </tr>
   <tr>
     <td style="width:15%">2024</td>
-    <td style="width:60%; text-align:left;">Chemistry of Biological Interactions Fellowship, NSF - NRT</td>
+    <td style="width:60%; text-align:left;">NSF-NRT: Chemistry of Biological Interactions Fellowship</td>
     <td style="width:25%; text-align:left;">$75,000 + tuition waiver</td>
   </tr>
   <tr>
@@ -212,10 +228,10 @@ MATLAB, UNIX
 
 Lab: DNA extractions, quantitative PCR, PCR gel electrophoresis, immune
 assays (hemocyte counts, phenoloxidase activity, melanization of
-filaments), chemical analyses (in training)
+filaments), chemical analyses: extraction, isolation, and quantification of iridoid glycosides from caterpillar and plant tissue using GC-MS  
 
 Practical: Wilderness Training (6/10/2024), First Aid CPR AED
-(1/15/2023)
+(1/15/2025)
 
 Arts + Hobbies: Bharatanatyam (since 2000), volleyball (since 2009),
 poetry (since 2011)
@@ -225,7 +241,7 @@ poetry (since 2011)
 ### Uses
 <p style="text-align:left;">
 
-<span style="white-space: nowrap">{{< iconify logos:slack-icon width=50px height=50px title="Slack for communication" >}}
+<span style="white-space: wrap">{{< iconify logos:slack-icon width=50px height=50px title="Slack for communication" >}}
 {{< iconify logos:ubuntu width=50px height=50px title="Ubuntu based software on my laptop" >}}
 {{< iconify simple-icons:popos width=50px height=50px title="Pop_OS! operating system" >}}
 {{< iconify logos:linux-tux width=50px height=50px title="Linux rocks!" >}}
@@ -257,7 +273,7 @@ multipitch with the TradDads. I wrote about my experience
 
 </p>
 
-<img src="images/tradfest.jpg" class="responsive-contain-img"/> </br>
+<img src="images/tradfest.jpg" width="400px"/> </br>
 
 #### Volleyball
 
@@ -283,7 +299,7 @@ you can access below through PolarSteps.
 
 </p>
 
-<iframe width="640" height="480" src="https://www.polarsteps.com/VictoriaPeechatt/4189822-the-adventures-of-victoria-annie-and-shadowfax/embed">
+<iframe width="400" height="300" src="https://www.polarsteps.com/VictoriaPeechatt/4189822-the-adventures-of-victoria-annie-and-shadowfax/embed">
 
 </iframe>
 
@@ -300,7 +316,7 @@ choreographing a segment and getting motion captured.
 
 </br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DOJ065rCiaU?si=2Ax779dSjs7py12d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+<iframe width="400px" height="500px" src="https://www.youtube.com/embed/DOJ065rCiaU?si=2Ax779dSjs7py12d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 
 </iframe>
 
@@ -318,6 +334,6 @@ and audience's choice at Penn State.
 </p>
 
 <img src="images/dance1.jpg" width="400px"/> </br></br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9iTEoLo5QgU?si=2Y1-aY_HwHkyca2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 </br>
 </body>
