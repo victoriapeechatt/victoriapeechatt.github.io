@@ -1,6 +1,5 @@
 ---
 title: "Virus-Temperature Gradient Experiment: The effect of elevated temperature on development, survival, immune responses, viral loads, and chemical sequestration in a specialist herbivore"
-author: Victoria Peechatt, Katherine Chacon Godoy, Jennifer McCracken, Jeremy Flatt, Mike Teglas, Angela Smilanich
 date: 2025/5/28
 format: html
 css: styles.css

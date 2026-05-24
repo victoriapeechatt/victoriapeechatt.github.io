@@ -1,0 +1,11 @@
+---
+title: "Tropical Ecology"
+date: 2024/7/15
+format: html
+css: styles.css
+categories: 
+- teaching
+- La Selva
+
+---
+<img src="../images/teaching1.jpg" width="400" height="300">

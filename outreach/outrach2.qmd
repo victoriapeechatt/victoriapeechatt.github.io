@@ -1,0 +1,11 @@
+---
+title: "Earthwatch: Teach Earth"
+date: 2023/7/5
+categories: 
+- outreach
+- Sierra Nevada
+- teachers
+
+
+---
+<img src="../images/outreach2.jpg" width="400" height="300">

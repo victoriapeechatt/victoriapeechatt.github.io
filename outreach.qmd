@@ -8,7 +8,7 @@ listing:
     - "activism/*.qmd"
   type: grid
   categories: true
-  sort: "date"
+  sort: "date desc"
   date-format: iso
 css: styles.css
   

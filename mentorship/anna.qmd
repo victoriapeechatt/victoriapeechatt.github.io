@@ -1,0 +1,13 @@
+---
+title: "Anna"
+date: 2023/7/15
+format: html
+css: styles.css
+categories: 
+- mentorship
+- UNR
+
+---
+<img src="../images/mentor1.jpg" width="300" height="300">
+
+I mentored Anna Dlabalova. She received a NURA scholarship, conducted an independent project, and published a paper in an undergraduate journal based on her work in our lab. 

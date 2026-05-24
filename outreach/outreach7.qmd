@@ -1,0 +1,11 @@
+---
+title: "Earthwatch Museum Tour"
+date: 2024/1/3
+categories: 
+- outreach
+- La Selva 
+- community scientists
+
+
+---
+<img src="../images/outreach7.jpeg" width="300" height="400">

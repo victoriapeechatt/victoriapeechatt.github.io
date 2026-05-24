@@ -1,0 +1,10 @@
+---
+title: "Earthwatch: Teach Earth"
+date: 2024/7/5
+categories: 
+- outreach
+- Sierra Nevada
+- teachers
+
+---
+<img src="../images/outreach10.jpg" width="400" height="300">

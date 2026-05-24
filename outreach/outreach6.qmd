@@ -1,0 +1,11 @@
+---
+title: "Museum Class Activity"
+date: 2024/2/1
+categories: 
+- outreach
+- UNR Museum of Natural History
+- elementary
+
+
+---
+<img src="../images/outreach8.jpg" width="400" height="300">

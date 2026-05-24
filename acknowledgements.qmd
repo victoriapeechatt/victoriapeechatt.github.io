@@ -4,4 +4,10 @@ title-block-banner: images/fall-ma.jpg
 title-block-banner-color: white
 css: styles.css
 format: html
+listing: 
+  contents: 
+    - "acknowledgements/*.qmd"
+  type: grid
+  sort:
+    - "title asc"
 ---

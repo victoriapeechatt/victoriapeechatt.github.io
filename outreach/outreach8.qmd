@@ -1,0 +1,11 @@
+---
+title: "Earthwatch"
+date: 2023/12/28
+categories: 
+- outreach
+- La Selva 
+- community scientists
+
+
+---
+<img src="../images/outreach6.jpg" width="400" height="400">

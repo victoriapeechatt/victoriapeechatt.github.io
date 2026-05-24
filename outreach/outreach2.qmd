@@ -1,0 +1,9 @@
+---
+title: "Earthwatch Field Collecting"
+date: 2024/12/28
+categories: 
+- outreach
+- La Selva 
+
+---
+<img src="../images/outreach12.jpg" width="400" height="300">

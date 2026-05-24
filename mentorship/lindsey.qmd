@@ -1,0 +1,13 @@
+---
+title: "Lindsey"
+date: 2025/7/15
+format: html
+css: styles.css
+categories: 
+- mentorship
+- UNR
+
+---
+<img src="../images/mentor2.jpg" width="300" height="300">
+
+I mentored Lindsey Chao. She received a NURA scholarship and conducted an independent project in our lab. 

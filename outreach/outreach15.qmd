@@ -1,0 +1,11 @@
+---
+title: "Day at the Museum"
+date: 2025/10/20
+categories: 
+- outreach
+- UNR Museum of Natural History
+- general public
+
+
+---
+<img src="../images/outreach15.jpg" width="500" height="300">

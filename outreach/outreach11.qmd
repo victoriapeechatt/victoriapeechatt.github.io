@@ -1,0 +1,11 @@
+---
+title: "Museum Class Activity"
+date: 2023/7/13
+categories: 
+- outreach
+- UNR Museum of Natural History
+- middle school
+
+
+---
+<img src="../images/outreach3.jpg" width="500" height="300">

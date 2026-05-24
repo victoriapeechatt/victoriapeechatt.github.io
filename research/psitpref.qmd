@@ -1,6 +1,5 @@
 ---
 title: "Parasitoid Preference: The role of caterpillar host infection status in parasitoid preference and success"
-author: Victoria Peechatt, Carson Wong, Enakshi Ghosh, Angela Smilanich
 date: 2024/5/20
 format: html
 css: styles.css

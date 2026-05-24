@@ -1,0 +1,10 @@
+---
+title: "Earthwatch Field Collecting"
+date: 2024/7/22
+categories: 
+- outreach
+- La Selva 
+- high school
+
+---
+<img src="../images/outreach11B.jpg" width="400" height="300">

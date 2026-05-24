@@ -2,7 +2,25 @@
   {
     "listing": "/outreach.html",
     "items": [
-      "/outreach/2025_1_BeeExpo.html"
+      "/outreach/outreach15.html",
+      "/outreach/outreach16.html",
+      "/outreach/outreachNABA2.html",
+      "/outreach/2025_1_BeeExpo.html",
+      "/outreach/outreach1.html",
+      "/outreach/outreach2.html",
+      "/outreach/outreach3b.html",
+      "/outreach/outreach3.html",
+      "/outreach/outreach4.html",
+      "/outreach/outreachnaba.html",
+      "/outreach/outreach5.html",
+      "/outreach/outreach6.html",
+      "/outreach/outreach7.html",
+      "/outreach/outreach9.html",
+      "/outreach/outreach8.html",
+      "/outreach/outreach10.html",
+      "/outreach/outreach11.html",
+      "/outreach/outrach2.html",
+      "/outreach/outreach13.html"
     ]
   },
   {
@@ -16,10 +34,24 @@
   {
     "listing": "/teaching.html",
     "items": [
+      "/teaching/2026spring1.html",
+      "/teaching/2026spring2.html",
+      "/mentorship/lindsey.html",
+      "/teaching/2024july.html",
       "/teaching/2024spring1.html",
       "/teaching/2024spring2.html",
-      "/teaching/2026spring1.html",
-      "/teaching/2026spring2.html"
+      "/mentorship/anna.html"
+    ]
+  },
+  {
+    "listing": "/acknowledgements.html",
+    "items": [
+      "/acknowledgements/ack1.html",
+      "/acknowledgements/ack5.html",
+      "/acknowledgements/ack3.html",
+      "/acknowledgements/ack4.html",
+      "/acknowledgements/ack2.html",
+      "/acknowledgements/ack6.html"
     ]
   }
 ]

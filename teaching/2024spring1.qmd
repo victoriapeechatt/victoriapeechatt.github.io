@@ -1,8 +1,10 @@
 ---
-title: "Biology Laboratory 192 - Section 2"
+title: "Principles of Biological Invesigations Lab"
 date: 2024/1/15
 format: html
 css: styles.css
-categories: teaching
+categories: 
+- teaching
+- UNR
 ---
 <img src="../images/2024spring1.jpg" width="400" height="300">

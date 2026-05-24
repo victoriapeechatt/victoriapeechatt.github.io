@@ -1,0 +1,12 @@
+---
+title: "Library Display"
+date: 2025/8/1
+categories: 
+- outreach
+- UNR Museum of Natural History
+- general public
+- library
+
+
+---
+<img src="../images/outreach16.jpg" width="400" height="300">

@@ -19,7 +19,7 @@ website:
       - href: acknowledgements.qmd
         text: Acknowledgements
   page-footer: 
-    left: "Updated 2025-07-05, Victoria Peechatt" 
+    left: "Updated 2026-01-05, Victoria Peechatt" 
     right: "Made with Quarto"
     border: false
 

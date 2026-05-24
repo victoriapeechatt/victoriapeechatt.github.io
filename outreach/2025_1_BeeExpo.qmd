@@ -1,7 +1,10 @@
 ---
 title: "American Beekeeping Federation Conference"
 date: 2025/1/20
-categories: outreach
+categories: 
+- outreach
+- Reno
+- general public
 
 ---
 <img src="../images/beeexpo.jpeg" alt="VP showing native pollinators" width="300" height="400">

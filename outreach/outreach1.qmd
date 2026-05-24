@@ -1,0 +1,11 @@
+---
+title: "Earthwatch"
+date: 2025/1/05
+categories: 
+- outreach
+- La Selva 
+- community scientists
+
+---
+<img src="../images/outreach13.jpg" width="400" height="300">
+
