@@ -6,6 +6,7 @@ css: styles.css
 categories: 
 - teaching
 - La Selva
+- high school
 
 ---
 <img src="../images/teaching1.jpg" width="400" height="300">

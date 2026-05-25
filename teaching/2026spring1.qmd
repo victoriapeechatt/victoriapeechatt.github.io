@@ -1,11 +1,12 @@
 ---
-title: "Principles of Biological Invesigations Lab"
+title: "Principles of Biological Investigations Lab"
 date: 2026/1/15
 format: html
 css: styles.css
 categories:
 - teaching
 - UNR
+- undergraduate
 
 ---
 <img src="../images/2026spring1.jpg" width="400" height="300">
