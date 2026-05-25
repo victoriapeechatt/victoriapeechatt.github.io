@@ -6,8 +6,6 @@ format:
     anchor-sections: false
     css: [index.css]
 ---
-<head>
-<meta name="google-site-verification" content="pNnp290Q-gHKf53OekYcf4Ral1Qy27lrxJQHMv5bmqw" />
-</head
+
 <body>
 </body>
