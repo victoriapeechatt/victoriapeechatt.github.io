@@ -1,5 +1,36 @@
 [
   {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/2026spring1.html",
+      "/teaching/2026spring2.html",
+      "/mentorship/lindsey.html",
+      "/teaching/2024july.html",
+      "/teaching/2024spring1.html",
+      "/teaching/2024spring2.html",
+      "/mentorship/anna.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/psitpref.html",
+      "/research/vtg.html",
+      "/research/ECgradient.html"
+    ]
+  },
+  {
+    "listing": "/acknowledgements.html",
+    "items": [
+      "/acknowledgements/ack1.html",
+      "/acknowledgements/ack5.html",
+      "/acknowledgements/ack3.html",
+      "/acknowledgements/ack4.html",
+      "/acknowledgements/ack2.html",
+      "/acknowledgements/ack6.html"
+    ]
+  },
+  {
     "listing": "/outreach.html",
     "items": [
       "/outreach/outreach15.html",
@@ -21,37 +52,6 @@
       "/outreach/outreach11.html",
       "/outreach/outrach2.html",
       "/outreach/outreach13.html"
-    ]
-  },
-  {
-    "listing": "/acknowledgements.html",
-    "items": [
-      "/acknowledgements/ack1.html",
-      "/acknowledgements/ack5.html",
-      "/acknowledgements/ack3.html",
-      "/acknowledgements/ack4.html",
-      "/acknowledgements/ack2.html",
-      "/acknowledgements/ack6.html"
-    ]
-  },
-  {
-    "listing": "/teaching.html",
-    "items": [
-      "/teaching/2026spring1.html",
-      "/teaching/2026spring2.html",
-      "/mentorship/lindsey.html",
-      "/teaching/2024july.html",
-      "/teaching/2024spring1.html",
-      "/teaching/2024spring2.html",
-      "/mentorship/anna.html"
-    ]
-  },
-  {
-    "listing": "/research.html",
-    "items": [
-      "/research/psitpref.html",
-      "/research/vtg.html",
-      "/research/ECgradient.html"
     ]
   }
 ]
