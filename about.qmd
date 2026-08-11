@@ -289,6 +289,7 @@ incredible experience - I learned trad climbing and did my first
 multipitch with the TradDads. I wrote about my experience
 <a href = "https://www.flashfoxy.com/scholarship-blog/victoria-peechatt-sheher" target="_blank" rel="noopener">here</a>.
 
+
 </p>
 
 <img src="images/tradfest.jpg" width="400px"/> </br>
@@ -327,7 +328,7 @@ you can access below through PolarSteps.
 <p style="text-align:left;">
 
 I joined Ripieno Studios at the Carnegie Mellon Entertainment Technology
-Center to make this short film. I represented Bharatanatyam, an Indian
+Center to make <a href = "https://www.youtube.com/embed/DOJ065rCiaU?si=2Ax779dSjs7py12d" target="_blank" rel="noopener">this short film</a>. I represented Bharatanatyam, an Indian
 Classical Dance form that originated over 2000 years ago by
 choreographing a segment and getting motion captured.
 
@@ -336,10 +337,6 @@ choreographing a segment and getting motion captured.
 </br>
 
 <img src="images/mocap.jpg" width="400px"/> </br>
-
-<iframe width="400px" height="500px" src="https://www.youtube.com/embed/DOJ065rCiaU?si=2Ax779dSjs7py12d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
-</iframe>
 
 #### Dance
 

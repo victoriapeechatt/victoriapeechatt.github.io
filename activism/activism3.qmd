@@ -1,10 +1,10 @@
 ---
-title: "UAW Region 6 Summer School"
-date: 2025/7/23
+title: "Gubernatorial Candidate Forum"
+date: 2025/10/18
 categories: 
 - activism
-- UAW
+- Reno
 - organizing
 
 ---
-<img src="../images/activism3.jpg" alt="" width="800" height="400">
+<img src="../images/activism4.jpg" alt="" width="500" height="400">
