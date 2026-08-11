@@ -1,0 +1,10 @@
+---
+title: "Mayoral Candidate Meeting"
+date: 2025/9/11
+categories: 
+- activism
+- Reno
+- UAW
+
+---
+<img src="../images/activism2.jpg" alt="" width="500" height="400">
