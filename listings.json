@@ -1,5 +1,24 @@
 [
   {
+    "listing": "/acknowledgements.html",
+    "items": [
+      "/acknowledgements/ack1.html",
+      "/acknowledgements/ack5.html",
+      "/acknowledgements/ack3.html",
+      "/acknowledgements/ack4.html",
+      "/acknowledgements/ack2.html",
+      "/acknowledgements/ack6.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/psitpref.html",
+      "/research/vtg.html",
+      "/research/ECgradient.html"
+    ]
+  },
+  {
     "listing": "/teaching.html",
     "items": [
       "/teaching/2026spring1.html",
@@ -12,29 +31,12 @@
     ]
   },
   {
-    "listing": "/research.html",
-    "items": [
-      "/research/psitpref.html",
-      "/research/vtg.html",
-      "/research/ECgradient.html"
-    ]
-  },
-  {
-    "listing": "/acknowledgements.html",
-    "items": [
-      "/acknowledgements/ack1.html",
-      "/acknowledgements/ack5.html",
-      "/acknowledgements/ack3.html",
-      "/acknowledgements/ack4.html",
-      "/acknowledgements/ack2.html",
-      "/acknowledgements/ack6.html"
-    ]
-  },
-  {
     "listing": "/outreach.html",
     "items": [
       "/outreach/outreach15.html",
+      "/activism/activism2.html",
       "/outreach/outreach16.html",
+      "/activism/activism3.html",
       "/outreach/outreachNABA2.html",
       "/outreach/2025_1_BeeExpo.html",
       "/outreach/outreach1.html",
@@ -51,7 +53,8 @@
       "/outreach/outreach10.html",
       "/outreach/outreach11.html",
       "/outreach/outrach2.html",
-      "/outreach/outreach13.html"
+      "/outreach/outreach13.html",
+      "/activism/activism1.html"
     ]
   }
 ]
